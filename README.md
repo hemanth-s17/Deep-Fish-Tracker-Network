@@ -19,3 +19,14 @@ Each line in both det.txt and gt.txt files should contain the following 10 value
 7. conf -> confidence of the detection 
 8. x, y, z -> can ignore them for the 2D tracking. Fill -1 for these values.
 
+Please use the following BibTex to site this paper in case you this code in part or full
+
+@article{gupta2021dftnet,
+  title={DFTNet: Deep Fish Tracker With Attention Mechanism in Unconstrained Marine Environments},
+  author={Gupta, Shilpi and Mukherjee, Prerana and Chaudhury, Santanu and Lall, Brejesh and Sanisetty, Hemanth},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--13},
+  year={2021},
+  publisher={IEEE}
+}
