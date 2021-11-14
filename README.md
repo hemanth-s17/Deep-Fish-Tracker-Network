@@ -23,7 +23,7 @@ Each line in both det.txt and gt.txt files should contain the following 10 value
 
 To request the access to the dataset used, please reach out to deepfishtracker@gmail.com
 
-### Please use the following BibTex to site this paper in case you this code in part or full
+### Please use the following BibTex to cite this paper in case you use this code in part or full
 
 @article{gupta2021dftnet,
   title={DFTNet: Deep Fish Tracker With Attention Mechanism in Unconstrained Marine Environments},
